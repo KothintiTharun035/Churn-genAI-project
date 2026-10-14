@@ -1,0 +1,5 @@
+Policy: Service Quality and Complaints
+
+If a customer has reported recurring service problems, review the support history and investigate unresolved complaints before offering an upsell.
+
+Escalate persistent technical issues through the approved support process. Do not claim that a service problem exists unless supporting customer information is available.
